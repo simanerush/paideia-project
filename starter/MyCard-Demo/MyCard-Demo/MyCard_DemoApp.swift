@@ -19,4 +19,4 @@ struct MyCard_DemoApp: App {
 // MARK: - Notes for class
 // "OpenSansCondensed-Light"
 // "DancingScript-Bold"
-// Color(red: 0.90, green: 0.49, blue: 0.13, opacity: 0.8)
+// red: 0.90, green: 0.49, blue: 0.13, opacity: 0.8
